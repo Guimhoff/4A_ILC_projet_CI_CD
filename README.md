@@ -1,6 +1,6 @@
 # 4A_ILC_projet_CI_CD
 
-![Projet terminé](https://img.shields.io/badge/Projet-terminé-green)
+![Projet terminé](https://img.shields.io/badge/Projet-termin%C3%A9%20!-green)
 
 Nom et prénom : **IMHOFF Guillaume**
 
