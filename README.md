@@ -1,5 +1,7 @@
 # 4A_ILC_projet_CI_CD
 
+https://img.shields.io/badge/Projet-terminé-green
+
 Nom et prénom : **IMHOFF Guillaume**
 
 Spécialité : **ILC**
